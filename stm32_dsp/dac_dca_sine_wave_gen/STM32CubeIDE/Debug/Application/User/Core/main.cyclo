@@ -1,0 +1,10 @@
+/Users/shantanu/Downloads/stm_examples/dac_dca_sine_wave_gen/dac_dca_sine_wave_gen/Core/Src/main.c:89:6:filter_init	1
+/Users/shantanu/Downloads/stm_examples/dac_dca_sine_wave_gen/dac_dca_sine_wave_gen/Core/Src/main.c:121:6:filter_signal	5
+/Users/shantanu/Downloads/stm_examples/dac_dca_sine_wave_gen/dac_dca_sine_wave_gen/Core/Src/main.c:180:5:main	1
+/Users/shantanu/Downloads/stm_examples/dac_dca_sine_wave_gen/dac_dca_sine_wave_gen/Core/Src/main.c:241:6:SystemClock_Config	3
+/Users/shantanu/Downloads/stm_examples/dac_dca_sine_wave_gen/dac_dca_sine_wave_gen/Core/Src/main.c:288:13:MX_DAC1_Init	3
+/Users/shantanu/Downloads/stm_examples/dac_dca_sine_wave_gen/dac_dca_sine_wave_gen/Core/Src/main.c:335:13:MX_DAC2_Init	3
+/Users/shantanu/Downloads/stm_examples/dac_dca_sine_wave_gen/dac_dca_sine_wave_gen/Core/Src/main.c:382:13:MX_TIM2_Init	4
+/Users/shantanu/Downloads/stm_examples/dac_dca_sine_wave_gen/dac_dca_sine_wave_gen/Core/Src/main.c:425:13:MX_DMA_Init	1
+/Users/shantanu/Downloads/stm_examples/dac_dca_sine_wave_gen/dac_dca_sine_wave_gen/Core/Src/main.c:447:13:MX_GPIO_Init	1
+/Users/shantanu/Downloads/stm_examples/dac_dca_sine_wave_gen/dac_dca_sine_wave_gen/Core/Src/main.c:467:6:Error_Handler	1
