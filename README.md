@@ -11,7 +11,8 @@ decided on a bandpass butterworth filter
 ![bandpass_filter](https://github.com/user-attachments/assets/5323c11a-ec6d-40ba-ab26-beca2d69a261)
 
 wrote that code on stm32 to filter the simulated ecg signals
-![noisy and filtered ecg](https://github.com/user-attachments/assets/9b4a1aa4-56a6-4caf-8e95-fe854c5214e7)
+![noisy and filtered ecg](https://github.com/user-attachments/assets/3bf388b7-6ae0-4f4d-8379-8437ae48be78)
+
 
 
 References:
